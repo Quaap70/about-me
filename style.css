@@ -1,0 +1,18 @@
+body {
+    background: green;
+    color: white;
+}
+
+h1 {
+    font-size: 30px;
+    margin: 0 0 20px 0;
+}
+
+p {
+    font-size: 16px;
+    margin: 0;
+}
+
+img {
+    margin-top: 20px;
+}
